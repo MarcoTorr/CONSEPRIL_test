@@ -243,10 +243,11 @@ header {
     transition: all 0.3s ease-in-out 0s;
 }
 header .navbar {
+	height: 75px;
 	padding: 20px 0px;
 }
 .background-header .navbar {
-	padding: 10px 0px;
+	padding: 17px 24px;
 }
 .background-header {
 	top: 0;
@@ -875,6 +876,17 @@ ul.slick-dots {
 	padding: 60px 0px;
 }
 
+.partners1 {
+	margin-top: 0px;
+	background-color: #ffffff;
+	padding: 30px 0px;
+}
+
+.partners2 {
+	margin-top: 10px;
+	background-color: #f7f7f7;
+	padding: 60px 0px;
+}
 .partners .owl-item {
 	text-align: center;
 	cursor: pointer;

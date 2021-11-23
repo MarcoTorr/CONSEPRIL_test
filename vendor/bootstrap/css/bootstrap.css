@@ -206,6 +206,7 @@ figure {
 }
 
 img {
+  padding: 0px 30px;
   vertical-align: middle;
   border-style: none;
 }
@@ -4149,6 +4150,7 @@ input[type="button"].btn-block {
   .navbar-expand-lg > .container-fluid {
     padding-right: 0;
     padding-left: 0;
+    margin: 0px 10px;
   }
 }
 
