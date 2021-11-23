@@ -5,7 +5,12 @@ TemplateMo - Finance Business
 https://templatemo.com/tm-545-finance-business
 
 */
-
+.containImg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
 body {
   font-family: 'Poppins', sans-serif;
   overflow-x: hidden;
